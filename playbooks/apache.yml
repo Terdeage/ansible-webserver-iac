@@ -28,5 +28,5 @@
 
     - name: Deploy Website
       template:
-        src: /home/terdeage/ansible-webserver-iac/templates/index.html.j2
+        src: /home/Terdeage/ansible-webserver-iac/templates/index.html.j2
         dest: /var/www/html/index.html---
